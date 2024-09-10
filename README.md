@@ -10,7 +10,7 @@
 - ⚒️ **Roblox scripting** — [Learn More](#)
 - 🚀 **Game Pass/ Developer product creation** — [Learn More](#)
 
-**_🎯 Goal: I strive to combine technical knowledge with creativity so that your game brings a unique experience and fun to thousands of users around the world!_**
+## **_🎯 Goal: I strive to combine technical knowledge with creativity so that your game brings a unique experience and fun to thousands of users around the world!_**
 
 ---
 
@@ -30,5 +30,6 @@
 ## 📫 Contact Me
 
 - 📨 **[Email](mailto:leonizdev@mail.ru)** — My Email
-- 💼 **[Fiverr](#https://www.fiverr.com/leonid_filin)** — My services
-- 📷 **[Instagram](#https://www.instagram.com/filinleo20/)** — My Instagram
+- 💼 **[Fiverr](https://www.fiverr.com/leonid_filin)** — My services
+- 📷 **[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
+- 📷 **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
