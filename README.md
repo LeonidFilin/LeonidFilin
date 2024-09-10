@@ -10,7 +10,7 @@
 - ⚒️ **Roblox scripting** — [Learn More](#)
 - 🚀 **Game Pass/ Developer product creation** — [Learn More](#)
 
-## **_🎯 Goal: I strive to combine technical knowledge with creativity so that your game brings a unique experience and fun to thousands of users around the world!_**
+## **_🎯 I strive to combine technical knowledge with creativity so that your game brings a unique experience and fun to thousands of users around the world!_**
 
 ---
 
