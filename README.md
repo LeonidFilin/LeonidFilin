@@ -1,4 +1,4 @@
-![Profile Header](images/header.png)
+![Profile Header](header.png)
 
 # Hello, I'm LeonizDev!
 
