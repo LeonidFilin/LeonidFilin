@@ -1,4 +1,4 @@
-![Profile Header](https://avatars.mds.yandex.net/i?id=21cffa9823cd736ced776ecf315a633a_l-7082664-images-thumbs&ref=rim&n=13&w=1920&h=489)
+![Profile Header](images/header.png)
 
 # Hello, I'm LeonizDev!
 
