@@ -1,4 +1,4 @@
-![Profile Header](https://steamuserimages-a.akamaihd.net/ugc/939432098227910346/4A0BDA01695F22F9B179F19DBBFA19ABAD95343C/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
+![Profile Header](https://avatars.mds.yandex.net/i?id=21cffa9823cd736ced776ecf315a633a_l-7082664-images-thumbs&ref=rim&n=13&w=1920&h=489)
 
 # Hello, I'm LeonizDev!
 
