@@ -6,9 +6,9 @@
 
 ## 🛠 My Services
 
-- 💬 **Development Consultation** — [Learn More](#https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
-- ⚒️ **Roblox scripting** — [Learn More](#https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
-- 🚀 **Game Pass/ Developer product creation** — [Learn More](#)
+- 💬 **Development Consultation** — [Learn More](https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
+- ⚒️ **Roblox scripting** — [Learn More](https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
+- 🚀 **Game Pass/ Developer product creation** — [Learn More]()
 
 ## **_🎯 I strive to combine technical knowledge with creativity so that your game brings a unique experience and fun to thousands of users around the world!_**
 
