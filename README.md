@@ -29,7 +29,7 @@
 
 ## 📫 Contact Me
 
-- <img src="[https://example.com/email-icon.png](https://img.icons8.com/?size=100&id=oKHadYScUe2I&format=png&color=000000)" width="20"/> **[Email](mailto:leonizdev@mail.ru)** — My Email
+- <img src="https://icons8.com/icon/oKHadYScUe2I/tiktok" width="20"/> **[Email](mailto:leonizdev@mail.ru)** — My Email
 - <img src="https://example.com/fiverr-icon.png" width="20"/> **[Fiverr](https://www.fiverr.com/leonid_filin)** — My services
 - <img src="https://example.com/tiktok-icon.png" width="20"/> **[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
 - <img src="https://example.com/instagram-icon.png" width="20"/> **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
