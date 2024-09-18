@@ -34,7 +34,7 @@
 - <img src="https://img.icons8.com/color/48/000000/tiktok.png" width="20"/> **[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
 - <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="20"/> **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
 
-## ⚒️ My Projects
+<!--## ⚒️ My Projects
 
 <table>
   <tr>
@@ -83,4 +83,4 @@
 
 Описание проекта 3. Информация о том, что было сделано и какие инструменты использовались.
 
-[Видео проекта 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+[Видео проекта 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ) --!>>
