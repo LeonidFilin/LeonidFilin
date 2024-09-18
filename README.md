@@ -40,7 +40,7 @@
   <tr>
     <td>
       <a href="#houses">
-        <img src="https://via.placeholder.com/150](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 1" style="width:100%;">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 1" style="width:100%;">
       </a>
       <p align="center">Houses buying system 🏠</p>
     </td>
