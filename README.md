@@ -39,10 +39,10 @@
 <table>
   <tr>
     <td>
-      <a href="#project1">
+      <a href="#houses">
         <img src="https://via.placeholder.com/150" alt="Проект 1" style="width:100%;">
       </a>
-      <p align="center">Проект 1</p>
+      <p align="center">Houses buying system 🏠</p>
     </td>
     <td>
       <a href="#project2">
@@ -63,7 +63,7 @@
 
 ## Детали проекта
 
-### House buying system 🏠 <a name="project1"></a>
+### House buying system 🏠 <a name="houses"></a>
 
 Описание проекта 1. Здесь вы можете рассказать о том, как создавался проект, какие технологии использовались и какие были сложности.
 
