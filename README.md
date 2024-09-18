@@ -4,7 +4,7 @@
 
 ## Roblox game Developer | Lua programmer | Project Manager
 
-## 🛠 My Services
+## 🛒 My Services
 
 - 💬 **Development Consultation** — [Learn More](https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
 - ⚒️ **Roblox scripting** — [Learn More](https://www.fiverr.com/leonid_filin/create-the-game-you-need-in-roblox-development-in-roblox-studio)
@@ -33,3 +33,57 @@
 - 💼 **[Fiverr](https://www.fiverr.com/leonid_filin)** — My services
 - 📷 **[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
 - 📷 **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
+
+## ⚒️ My Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="#project1">
+        <img src="https://via.placeholder.com/150" alt="Проект 1" style="width:100%;">
+      </a>
+      <p align="center">Проект 1</p>
+    </td>
+    <td>
+      <a href="#project2">
+        <img src="https://via.placeholder.com/150" alt="Проект 2" style="width:100%;">
+      </a>
+      <p align="center">Проект 2</p>
+    </td>
+    <td>
+      <a href="#project3">
+        <img src="https://via.placeholder.com/150" alt="Проект 3" style="width:100%;">
+      </a>
+      <p align="center">Проект 3</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Детали проекта
+
+### Проект 1 <a name="project1"></a>
+![Проект 1](https://via.placeholder.com/800x400)
+
+Описание проекта 1. Здесь вы можете рассказать о том, как создавался проект, какие технологии использовались и какие были сложности.
+
+[Видео проекта 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+---
+
+### Проект 2 <a name="project2"></a>
+![Проект 2](https://via.placeholder.com/800x400)
+
+Описание проекта 2. Пояснения, функционал и особенности разработки.
+
+[Видео проекта 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+---
+
+### Проект 3 <a name="project3"></a>
+![Проект 3](https://via.placeholder.com/800x400)
+
+Описание проекта 3. Информация о том, что было сделано и какие инструменты использовались.
+
+[Видео проекта 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
