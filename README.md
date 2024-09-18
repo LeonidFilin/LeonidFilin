@@ -40,19 +40,19 @@
   <tr>
     <td>
       <a href="#houses">
-        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 1" style="width:60%;">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 1" style="width:100%;">
       </a>
       <p align="center">Houses buying system 🏠</p>
     </td>
     <td>
       <a href="#project2">
-        <img src="https://via.placeholder.com/150" alt="Проект 2" style="width:100%;">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 2" style="width:100%;">
       </a>
       <p align="center">Проект 2</p>
     </td>
     <td>
       <a href="#project3">
-        <img src="https://via.placeholder.com/150" alt="Проект 3" style="width:100%;">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Проект 3" style="width:100%;">
       </a>
       <p align="center">Проект 3</p>
     </td>
@@ -71,7 +71,6 @@
 
 ---
 
-<!--
 ### Проект 2 <a name="project2"></a>
 ![Проект 2](https://via.placeholder.com/800x400)
 
@@ -85,4 +84,3 @@
 Описание проекта 3. Информация о том, что было сделано и какие инструменты использовались.
 
 [Видео проекта 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
---!>
