@@ -64,11 +64,10 @@
 ## Детали проекта
 
 ### House buying system 🏠 <a name="project1"></a>
-![Проект 1]
 
 Описание проекта 1. Здесь вы можете рассказать о том, как создавался проект, какие технологии использовались и какие были сложности.
 
-[Video][![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
