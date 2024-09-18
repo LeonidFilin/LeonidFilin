@@ -31,7 +31,7 @@
 
 - 📨 **[Email](mailto:leonizdev@mail.ru)** — My Email
 - 💼 **[Fiverr](https://www.fiverr.com/leonid_filin)** — My services
--  **[TikTok](https://img.icons8.com/?size=100&id=oKHadYScUe2I&format=png&color=000000)(https://www.tiktok.com/@leonizzzdev)** — My TikTok
+- (https://img.icons8.com/?size=100&id=oKHadYScUe2I&format=png&color=000000)**[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
 - 📷 **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
 
 ## ⚒️ My Projects
