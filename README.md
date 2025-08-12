@@ -32,7 +32,6 @@
 - <img src="https://img.icons8.com/color/48/000000/new-post.png" width="20"/> **[Email](mailto:leonizdev@mail.ru)** — My Email
 - <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="20"/> **[Fiverr](https://www.fiverr.com/leonid_filin)** — My services
 - <img src="https://img.icons8.com/color/48/000000/tiktok.png" width="20"/> **[TikTok](https://www.tiktok.com/@leonizzzdev)** — My TikTok
-- <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="20"/> **[Instagram](https://www.instagram.com/filinleo20/)** — My Instagram
 
 <!--## ⚒️ My Projects
 
